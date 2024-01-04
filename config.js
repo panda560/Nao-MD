@@ -35,49 +35,49 @@ const readMore = more.repeat(4001)
 global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '994404370051'
+global.nomorown = '6285963050855'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = '𝙰𝚏𝚛𝚎𝚗𝚒𝚞𝚜 𝙿𝚛𝚊𝚢𝚘𝚐𝚊'
+global.namebot = '𝚇𝚄 - 𝙱𝙾𝚃𝙲𝙰𝙷'
+global.wm = '© 𝚇𝚄 - 𝙱𝙾𝚃𝙲𝙰𝙷 By @arrezza20'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+6285864034767`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/panda560\n\n𝚇𝚄-𝙱𝙾𝚃𝙲𝙰𝙷 𝙾𝙵𝙲\n+6285963050855`
+global.stickauth = `© 𝚇𝚄 - 𝙱𝙾𝚃𝙲𝙰𝙷 𝙱𝚈 @arrezza20`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= '𝙿𝚁𝙰𝚈𝙾𝙶𝙰'
+global.nameown2 = '𝙿𝚁𝙰𝚈𝙾𝙶𝙰'
 /*============= MEDIA LINK =============*/
 global.Linkgc = 'Bentar'
 global.lynk = ''
 
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
+global.sig = 'https://www.instagram.com/afrenius_prayogaa01'
+global.sgh = 'https://github.com/panda560' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
 global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
 global.snh = 'https://www.instagram.com/ryzen_vermillion'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pshopeepay = '085963050855'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
-global.bank1 = '109901209640'
+global.ppulsa = '085963050855'
+global.ppulsa2 = '-'
+global.psaweria = '-'
+global.bank1 = '-'
 global.bank2 = '-'
 
 
@@ -177,7 +177,7 @@ global.thumblvlup = [
 ]
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.urlnya = "https://www.instagram.com/afrenius_prayogaa01"
 global.dtc = 'CALL OWNER'
 global.phn = '0813 8730 7198'
 
