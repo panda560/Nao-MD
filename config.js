@@ -113,7 +113,7 @@ global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
 global.deepai = 'YOUR_APIKEY_HERE'
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
 global.rose = 'Rs-Zeltoria'
 global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://skizo.tech/
